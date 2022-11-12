@@ -1,16 +1,45 @@
 {
-    "sites":[
+    "host_select":0,
+    "like_select":0,
+    "login_select":3,
+    "hosts":[
+        "api.0954auto.com",
+        "api.jtshuzhiwa.com",
+        "api.wtoiphc.com",
+        "api.bslsyjy.com"
+    ],
+    "like_user":[
         {
-            "name":"菜鸟教程",
-            "url":"www.runoob.com"
+            "device_id":"e7f1cfd5-d6c4-49ba-8eb1-74469f1b03bc",
+            "auth_token":"eyJhbGciOiJIUzUxMiIsImlhdCI6MTY2MDQwNDAzMCwiZXhwIjoxNjc1OTU2MDMwfQ.eyJpZCI6MTAwNjE5OTEyfQ.RB9zYemcguOaqJjdJ_vJ9o9-NIl00Z4JQhU7yc0skhFw_6W1uaSscq1ZrczIIaBSZk0DnTkzfqEmuaPBStMLsA", 
+            "invite_code":"WURFQU2"
         },
         {
-            "name":"google",
-            "url":"www.google.com"
+            "device_id":"64584fdd-fc46-4176-b221-53ac77e89d0c",
+            "auth_token":"eyJhbGciOiJIUzUxMiIsImlhdCI6MTY1NDI0MDAyNiwiZXhwIjoxNjY5NzkyMDI2fQ.eyJpZCI6OTM3NDM0NjN9.OPzwmEzaI-XTTh0Snh6b44vsy53OCLnhMTURavjaArz9GfQSNYB9pYoUGU9YhDGw57XcpVzH-5NHiSrPsI2Tnw", 
+            "invite_code":"WGTH4RN"
+        }
+    ],
+    "login_user":[
+        {
+            "device_id":"160c5d3d-ef04-45d1-a77a-37ea8ecf987e",
+            "auth_token":"eyJhbGciOiJIUzUxMiIsImlhdCI6MTY1NjMzODcxOCwiZXhwIjoxNjcxODkwNzE4fQ.eyJpZCI6OTU4MDg1NDN9.oqmlssNLKYkAXiqL-LqIZ8uA1FL4eW6KteQo35uRe8yKfwucEgtf9So9mf0gPcH-L0Kd0LxRnHTzS7_OQcPkRQ", 
+            "invite_code":"W8SD3BN"
         },
         {
-            "name":"微博",
-            "url":"www.weibo.com"
+            "device_id":"40ef2a83-2c2a-442e-b53e-30aeaa59ff91",
+            "auth_token":"eyJhbGciOiJIUzUxMiIsImlhdCI6MTY2MDQwNDEyMCwiZXhwIjoxNjc1OTU2MTIwfQ.eyJpZCI6MTAwNjIwMDgyfQ.-13IYDxrVsb0bPXyzETG_38Ke07SKA3zXsNTdZi2XdTHCm4uwWbXz5paexPyGsGvW-Iq3XZ0AEJFISPiDy30tQ", 
+            "invite_code":"WFDXDX2"
+        },
+        {
+            "device_id":"c19c5667-8d3d-4871-adeb-8a46c081ed1e",
+            "auth_token":"eyJhbGciOiJIUzUxMiIsImlhdCI6MTY2MTY5NDc1NSwiZXhwIjoxNjc3MjQ2NzU1fQ.eyJpZCI6MTAyMDI4ODk5fQ.Yq51RpD02j0muc3r3xmwW-7Ot08Qr58EBAK-tyquqIPvuroJrUyIbscb5tOCvWKr-v2m8wh6Nls4kMiNY8mEGg", 
+            "invite_code":"WY5VLHE"
+        }, 
+        {
+            "device_id":"88313e57-39ca-45b8-b7fc-e7966d101e4d",
+            "auth_token":"eyJhbGciOiJIUzUxMiIsImlhdCI6MTY2Mzg1NjMzOSwiZXhwIjoxNjc5NDA4MzM5fQ.eyJpZCI6MTAzNzg3MDQ3fQ.UtIffkBInaeHB-p8aXurLHErJ_sVPP-Y7yj5HBM9i01S6CDF6RdThSlfXp33G3UZvYdZPLunxFyjKCVi8GhMrw", 
+            "invite_code":"NLPTH82"
         }
     ]
 }
