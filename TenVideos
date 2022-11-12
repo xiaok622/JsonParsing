@@ -1,7 +1,7 @@
 {
     "host_select":0,
     "like_select":0,
-    "login_select":3,
+    "login_select":4,
     "hosts":[
         "api.0954auto.com",
         "api.jtshuzhiwa.com",
@@ -40,6 +40,11 @@
             "device_id":"88313e57-39ca-45b8-b7fc-e7966d101e4d",
             "auth_token":"eyJhbGciOiJIUzUxMiIsImlhdCI6MTY2Mzg1NjMzOSwiZXhwIjoxNjc5NDA4MzM5fQ.eyJpZCI6MTAzNzg3MDQ3fQ.UtIffkBInaeHB-p8aXurLHErJ_sVPP-Y7yj5HBM9i01S6CDF6RdThSlfXp33G3UZvYdZPLunxFyjKCVi8GhMrw", 
             "invite_code":"NLPTH82"
+        }, 
+        {
+            "device_id":"222ecc55-7da6-4b4d-a846-77c089ddb907",
+            "auth_token":"eyJhbGciOiJIUzUxMiIsImlhdCI6MTY2ODI2MTI3NSwiZXhwIjoxNjgzODEzMjc1fQ.eyJpZCI6MTA3OTAzNTA3fQ.AdhJo6vmbjqPMnpyJ8DV4OTSN4dfhPjoDeV5vrbbhlA-3Cn5Z5vCdNYiEe2AikvqGjdncwfcggrgPTx-74FLIQ", 
+            "invite_code":"NJLELJG"
         }
     ]
 }
