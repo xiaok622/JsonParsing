@@ -14,5 +14,13 @@
         "Longitude":"113.84536849234264",
         "Latitude":"22.609802540247063",
         "NetLocation":"深圳"
+    },
+    "com.info.disguise":{
+        "WifiName":"WiWide-BurgerKing",
+        "Bssid":"00:24:13:51:59:B7",
+        "Mac":"00:13:1A:93:0E:18",
+        "Longitude":"113.84536849234264",
+        "Latitude":"22.609802540247063",
+        "NetLocation":"深圳"
     }
 }
