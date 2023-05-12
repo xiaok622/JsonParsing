@@ -1,26 +1,41 @@
 {
     "com.tencent.tmgp.sgame":{
-        "WifiName":"WiWide-BurgerKing",
-        "Bssid":"00:1f:7a:a3:ef:19",
-        "Mac":"00:1f:7a:a3:ef:16",
-        "Longitude":"113.84536849234264",
-        "Latitude":"22.609802540247063",
-        "NetLocation":"深圳"
+        "index":0,
+        "data":[
+            {
+                "WifiName":"WiWide-BurgerKing",
+                "Bssid":"00:1f:7a:a3:ef:19",
+                "Mac":"00:1f:7a:a3:ef:16",
+                "Longitude":"113.84536849234264",
+                "Latitude":"22.609802540247063",
+                "NetLocation":"深圳"
+            }
+        ]
     },
     "com.tencent.igame":{
-        "WifiName":"WiWide-BurgerKing",
-        "Bssid":"00:1f:7a:a3:ef:19",
-        "Mac":"00:1f:7a:a3:ef:16",
-        "Longitude":"113.84536849234264",
-        "Latitude":"22.609802540247063",
-        "NetLocation":"深圳"
+        "index":0,
+        "data":[
+            {
+                "WifiName":"WiWide-BurgerKing",
+                "Bssid":"00:1f:7a:a3:ef:19",
+                "Mac":"00:1f:7a:a3:ef:16",
+                "Longitude":"113.84536849234264",
+                "Latitude":"22.609802540247063",
+                "NetLocation":"深圳"
+            }
+        ]
     },
     "com.info.disguise":{
-        "WifiName":"WiWide-BurgerKing",
-        "Bssid":"00:1f:7a:a3:ef:19",
-        "Mac":"00:1f:7a:a3:ef:16",
-        "Longitude":"113.84536849234264",
-        "Latitude":"22.609802540247063",
-        "NetLocation":"深圳"
+        "index":0,
+        "data":[
+            {
+                "WifiName":"WiWide-BurgerKing",
+                "Bssid":"00:1f:7a:a3:ef:19",
+                "Mac":"00:1f:7a:a3:ef:16",
+                "Longitude":"113.84536849234264",
+                "Latitude":"22.609802540247063",
+                "NetLocation":"深圳"
+            }
+        ]
     }
 }
