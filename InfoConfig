@@ -1,39 +1,69 @@
 {
     "com.tencent.tmgp.sgame":{
-        "index":0,
+        "index":1,
         "data":[
             {
+                "Remark":"航城里汉堡王",
                 "WifiName":"WiWide-BurgerKing",
                 "Bssid":"00:1f:7a:a3:ef:19",
                 "Mac":"00:1f:7a:a3:ef:16",
                 "Longitude":"113.84536849234264",
                 "Latitude":"22.609802540247063",
+                "NetLocation":"深圳"
+            },
+            {
+                "Remark":"前海壹方城",
+                "WifiName":"UNIWALK",
+                "Bssid":"d4:61:fe:1e:7c:12",
+                "Mac":"d4:61:fe:1e:7c:13",
+                "Longitude":"113.88292980112695",
+                "Latitude":"22.555245435688494",
                 "NetLocation":"深圳"
             }
         ]
     },
     "com.tencent.igame":{
-        "index":0,
+        "index":1,
         "data":[
             {
+                "Remark":"航城里汉堡王",
                 "WifiName":"WiWide-BurgerKing",
                 "Bssid":"00:1f:7a:a3:ef:19",
                 "Mac":"00:1f:7a:a3:ef:16",
                 "Longitude":"113.84536849234264",
                 "Latitude":"22.609802540247063",
                 "NetLocation":"深圳"
+            },
+            {
+                "Remark":"前海壹方城",
+                "WifiName":"UNIWALK",
+                "Bssid":"d4:61:fe:1e:7c:12",
+                "Mac":"d4:61:fe:1e:7c:13",
+                "Longitude":"113.88292980112695",
+                "Latitude":"22.555245435688494",
+                "NetLocation":"深圳"
             }
         ]
     },
     "com.info.disguise":{
-        "index":0,
+        "index":1,
         "data":[
             {
+                "Remark":"航城里汉堡王",
                 "WifiName":"WiWide-BurgerKing",
                 "Bssid":"00:1f:7a:a3:ef:19",
                 "Mac":"00:1f:7a:a3:ef:16",
                 "Longitude":"113.84536849234264",
                 "Latitude":"22.609802540247063",
+                "NetLocation":"深圳"
+            },
+            {
+                "Remark":"前海壹方城",
+                "WifiName":"UNIWALK",
+                "Bssid":"d4:61:fe:1e:7c:12",
+                "Mac":"d4:61:fe:1e:7c:13",
+                "Longitude":"113.88292980112695",
+                "Latitude":"22.555245435688494",
                 "NetLocation":"深圳"
             }
         ]
